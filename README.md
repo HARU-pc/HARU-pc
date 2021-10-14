@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![HARU-pc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HARU_4538&theme=gruvbox_light&layout=compact)](https://github.com/HARU-pc/github-readme-stats)
 ![HARU-pc's GitHub 
 !stats](https://github-readme-stats.vercel.app/api?username=HARU-pc&theme=gruvbox_light&count_private=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=HARU-pc&no-frame=true&theme=chalk&row=1)](https://github.com/HARU-pc/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HARU-pc&no-frame=true&theme=chalk&row=1&column=10)](https://github.com/HARU-pc/github-profile-trophy)
 <p align="center">
   <a href="https://twitter.com/HARU_4538"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:4538haru@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

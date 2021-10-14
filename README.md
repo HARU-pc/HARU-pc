@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![HARU-pc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HARU_4538&theme=gruvbox_light&layout=compact)](https://github.com/HARU-pc/github-readme-stats)
 ![HARU-pc's GitHub 
 !stats](https://github-readme-stats.vercel.app/api?username=HARU-pc&theme=gruvbox_light&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HARU-pc&no-frame=true)](https://github.com/HARU-pc/github-profile-trophy)

@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[HARU-pc's github stats](https://github-readme-stats.vercel.app/api?username=HARU-pc)
+[![Top 
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HARU-pc)](https://github.com/HARU-pc/github-readme-stats)
+![HARU-pc's GitHub 
+!stats](https://github-readme-stats.vercel.app/api?username=HARU-pc&count_private=true)

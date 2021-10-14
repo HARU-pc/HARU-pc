@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top 
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HARU-pc&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/HARU-pc/github-readme-stats)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HARU-pc&show_icons=true&layout=compact)](https://github.com/HARU-pc/github-readme-stats)
 ![HARU-pc's GitHub 
 !stats](https://github-readme-stats.vercel.app/api?username=HARU-pc&count_private=true)
